@@ -11,7 +11,7 @@
 
 <div align=center>
   
-  <h1>📚 STACKS</h1>
+  <h1>📚 Stacks</h1>
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -49,22 +49,23 @@
   <br>
 
   
-<h1>📞 Contact</h1>
+<h1>📞 Contacts</h1>
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:ymind14563@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
       <img src="https://img.shields.io/badge/gitblog-BBDDE5?style=for-the-badge&logo=gitbook&logoColor=white">
-
+  
+  <br>
+  <br>
+  
 </div> 
 
 </div>
 
- <br>
-  <br>
-  <br>
-
+  
+  
 <!--
 **ymind14563/ymind14563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
