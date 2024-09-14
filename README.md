@@ -64,7 +64,9 @@
     <a href="mailto:ymind14563@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
+    <a href="https://ymind14563.github.io/">
       <img src="https://img.shields.io/badge/gitblog-BBDDE5?style=for-the-badge&logo=gitbook&logoColor=white">
+    </a>
   
   <br>
   <br>
