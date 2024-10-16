@@ -80,13 +80,6 @@
   
   <br>
   <br>
-  
-</div> 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymind14563&show_icons=true&theme=cobalt)
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymind14563&layout=compact)
-</div>
-</div>
 
   
   
